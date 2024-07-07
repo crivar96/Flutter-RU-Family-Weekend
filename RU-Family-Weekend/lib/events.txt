@@ -1,0 +1,47 @@
+// Populate array with events_fri
+        events_fri[0] = "Registration and Welcome";
+        events_fri[1] = "$5 Friday at the Glassworks Eatery";
+        events_fri[2] = "How to Create a Killer LinkedIn Profile That Will Get You Noticed";
+        events_fri[3] = "Heather Ujiie: Dystopian Garden Paradise";
+        events_fri[4] = "Rowan Division III Ice Hockey vs. Rutgers Camden";
+        events_fri[5] = "Laser Pink Floyd: Dark Side of the Moon - Planetarium Show";
+        events_fri[6] = "Rowan Division II Ice Hockey vs. Virginia Tech";
+        events_fri[7] = "Laser Pink Floyd: Dark Side of the Moon - Planetarium Show";
+        events_fri[8] = "Drive-in Movie";
+        events_fri[9] = "Laser Pink Floyd: Dark Side of the Moon - Planetarium Show";
+
+//populate array with events_sat
+        events_sat[0] = "Registration and Welcome";
+        events_sat[1] = "The SHOP (Students Helping Other Profs) Food Pantry Donations";
+        events_sat[2] = "They Fought We Ride, Run, or Walk";
+        events_sat[3] = "MARU (Museum of Anthropology at Rowan University) Tour";
+        events_sat[4] = "WGLS-FM Radio Studio Tour";
+        events_sat[5] = "Heather Ujii: Dystopian Garden Paradise";
+        events_sat[6] = "Story Telling and Craft Time at Barnes and Noble";
+        events_sat[7] = "Instrument Petting Zoo";
+        events_sat[8] = "Ingredients for a Great Career: Exploring OCA Services and Resources";
+        events_sat[9] = "Family Block Party/Vendor Fair";
+        events_sat[10] = "Flu Shots";
+        events_sat[11] = "Sweets in the Sukkah";
+        events_sat[12] = "Hollybush Tour";
+        events_sat[13] = "Rowan University Field Hockey vs. William Patterson University";
+        events_sat[14] = "Profecy A Cappella Performance";
+        events_sat[15] = "Liquid Nitrogen Ice Cream Demonstration";
+        events_sat[16] = "Rowan Family Fossil Find";
+        events_sat[17] = "Finance Lab Demonstration";
+        events_sat[18] = "Black Holes - Planetarium Show";
+        events_sat[19] = "Stars of the Pharaohs - Planetarium Show";
+        events_sat[20] = "Rowan University Football vs. Christopher Newport University";
+        events_sat[21] = "Rowan University Men's Soccer vs. Kean University";
+        events_sat[22] = "Laser Queen - Planetarium Show";
+        events_sat[23] = "Laser Queen - Planetarium Show";
+        events_sat[24] = "End of Summer Bingo";
+        events_sat[25] = "Laser Queen - Planetarium Show";
+
+//populate array with events_sun
+        events_sun[0] = "A Service of Many Faiths";
+        events_sun[1] = "Black Jack Walk";
+        events_sun[2] = "Sweet and Savory Brunch at the Glassworks Eatery";
+        events_sun[3] = "Hollybush Tour";
+        events_sun[4] = "Family Show - Planetarium Show";
+        events_sun[5] = "Stars of the Pharaohs - Planetarium Show";
